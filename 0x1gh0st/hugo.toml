@@ -17,6 +17,8 @@ theme = "hello-friend-ng"
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
+  buildDrafts = true
+
   
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = false
